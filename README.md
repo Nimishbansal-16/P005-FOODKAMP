@@ -13,75 +13,58 @@ business.
 
 ## Architecture
 
-<div>
 ![](images/architectureDiagram.png alt="Architecture")
-</div>
 
 ## User App Interface
 
 ### Signup & Login
 
-<div>
 ![](images/openingPage-min.jpg alt="opening image" width="200px")
 ![](images/userSignUp-min.jpg alt="sign up image" width="200px")
 ![](images/signInPage-min.jpg alt="sign in image" width="200px")
-</div>
 
 ### User Home Page & Profile Section
 
-<div>
 ![](images/userHomePage-min.jpg alt="user home image" width="200px")
 ![](images/userProfile-min.jpg alt="user profile image" width="200px" )
 ![](images/editProfileUser-min.jpg alt="edit profile image" width="200px" )
-</div>
 
 ### Wallet & Payment
 
-<div>
 ![](images/addMoney-min.jpg alt="add money image" width="200px" )
 ![](images/paymentPage-min.jpg alt="payment page image" width="200px" )
-</div>
 
 ### Placing an Order
 
-<div>
 ![](images/userMenu-min.jpg alt="menu image" width="200px" )
 ![](images/userCart-min.jpg alt="user cart image" width="200px" )
 ![](images/userOrderConfirmation-min.jpg alt="order confirmation image" width="200px" )
 ![](images/userOrderHistory1-min.jpg alt="user order history image" width="200px" )
 ![](images/userOrderDetails-min.jpg alt="user order details image" width="200px" )
-</div>
 
 ### Receiving an Order
 
-<div>
 ![](images/userOrderDetails-min.jpg alt="user order image details" width="200px" )
 ![](images/userOrderDetails1-min.jpg alt="updated user order details" width="200px" )
-</div>
 
 ## Restaurant App Interface
 
 ### Login & Signup
 
-<div>
-![](images/openingPage-min.jpg alt="opening image" width="200px" )
+![](images/openingPage-min.jpg width="200px" )
 ![](images/resSignUp-min.jpg alt="sign up image" width="200px" )
 ![](images/signInPage-min.jpg alt="sign in image" width="200px" )
-</div>
 
 ### Restaurant Home Page & Menu Bar
 
-<div>
 ![](images/resPendingOrders-min.jpg alt="pending orders image" width="200px" )
 ![](images/resSidebar-min.jpg alt="menu side bar image" width="200px" )
 ![](images/resEditProfile-min.jpg alt="edit profile image" width="200px" )
 ![](images/resDeliveredOrders-min.jpg alt="delivered oreders image" width="200px" )
 ![](images/resExpiredOrders-min.jpg alt="expired orders image" width="200px" )
-</div>
 
 ### Restaurant Menu
 
-<div>
 ![](images/resMenu-min.jpg alt="restaurant menu image" width="200px" )
 ![](images/resAddItem-min.jpg alt="add item image" width="200px" )
 ![](images/resMenu1-min.jpg alt="updated menu image" width="200px" )
@@ -89,15 +72,12 @@ business.
 ![](images/resMenuFunc-min.jpg alt="menu item functions image" width="200px" )
 ![](images/resEmptyItem-min.jpg alt="emptying item image" width="200px" )
 ![](images/resDeleteItem-min.jpg alt="deleting item image" width="200px" )
-</div>
 
 ### Giving Order to the customer
 
-<div>
 ![](images/resOrderDetails-min.jpg alt="restaurant order details image" width="200px" )
 ![](images/resQRScan-min.jpg alt="QR code scanner image" width="200px" )
 ![](images/resOrderDetails1-min.jpg alt="order details after order delivered image" width="200px" )
-</div>
 
 ## Tools Used
 
