@@ -134,15 +134,17 @@ Once, the order is prepared, and the customer has arrived for the order pick-up,
 
 1. Clone or download this repository.
 2. Open the folder in any IDE, VS Code is preferred.
-3. Install all the dependencies using pub get.
-4. Connect an android device with debugging turned on or an emulator.
-5. Build and Run the application.
-6. Once it is successfully built and installed, enjoy using it!
-7. For more information about deploying the app, <a href="https://flutter.dev/docs/deployment/android#building-the-app-for-release">Click Here!</a>
+3. Open the 'foodKamp - restaurant side' folder for user side app code.
+4. Open the 'foodKamp - user side' folder for restaurant side app code.
+5. Install all the dependencies using pub get.
+6. Connect an android device with debugging turned on or an emulator.
+7. Build and Run the application.
+8. Once it is successfully built and installed, enjoy using it!
+9. For more information about deploying the app, <a href="https://flutter.dev/docs/deployment/android#building-the-app-for-release">Click Here!</a>
 
 ## Testing the Code
 
-1. Test files for each app is present in the 'test' directory, inside the respected code folders.
+1. Test files for each app is present in the 'test' directory, inside the respective code folders.
 2. Tests can be run from any IDE, or command line. VS Code is again preferred for easy interaction
 3. For VS Code, open the test file, click on 'Run, and then click on 'Start Debugging'.
 4. For command line, run command "flutter test test/test_file_name.dart" inside the project folder
