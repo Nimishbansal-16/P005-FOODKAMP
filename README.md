@@ -22,9 +22,9 @@ business.
 ### Signup & Login
 
 <div>
-<img src="images/openingPage-min.jpg" alt="opening image" width="200px" />
-<img src="images/userSignUp-min.jpg" alt="sign up image" width="200px" />
-<img src="images/signInPage-min.jpg" alt="sign in image" width="200px" />
+<img src="images/openingPage-min.jpg" alt="opening image" width="200px" >
+<img src="images/userSignUp-min.jpg" alt="sign up image" width="200px" >
+<img src="images/signInPage-min.jpg" alt="sign in image" width="200px" >
 </div>
 
 ### User Home Page & Profile Section
