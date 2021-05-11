@@ -122,6 +122,5 @@ business.
 2. Tests can be run from any IDE, or command line. VS Code is again preferred for easy interaction
 3. For VS Code, open the test file, click on 'Run, and then click on 'Start Debugging'.
 4. For command line, run command "flutter test test/test_file_name.dart" inside the project folder
-5. Here is an image for the successful run of tests
-6. <img src="images/testsRun.jpeg" alt="successful testing screenshot" width="600px" />
-7. For more information about testing, <a href="https://flutter.dev/docs/cookbook/testing/unit/introduction">Click Here!</a>
+5. Here is an image for the successful run of tests <img src="images/testsRun.jpeg" alt="successful testing screenshot" width="600px" />
+6. For more information about testing, <a href="https://flutter.dev/docs/cookbook/testing/unit/introduction">Click Here!</a>
