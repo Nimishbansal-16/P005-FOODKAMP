@@ -1,4 +1,4 @@
-# FOODKAMP (A Food Ordering App)
+# foodKamp (A Food Ordering App)
 
 In this era where time is money, people in our college generally face the hassle of waiting
 a lot in cafeterias like Cafe Zippy and Aladin to get their food. It is a tiring and time-
@@ -8,13 +8,13 @@ help restaurants to get optimized control, as they will be well prepared with th
 when the customer arrives. From the management point of view, the manager will be
 able to control the restaurant by having all the reports in hand and will be able to see
 the records of their sales. This application helps the restaurants to do all functionalities
-accurately and also increase their eciency. Thus, beneting everyone involved in the
+accurately and also increase their efficiency. Thus, benefiting everyone involved in the
 business.
 
 ## Architecture
 
 <div>
-<img src="images/architectureDiagram.png" alt="Architecture"/>
+<img src="images/architectureDiagram.png" alt="Architecture" width="600px"/>
 </div>
 
 ## User App Interface
@@ -118,7 +118,7 @@ business.
 
 ## Testing the Code
 
-1. Test files for each app is present in the 'test' directory, inside their respected code folders.
+1. Test files for each app is present in the 'test' directory, inside the respected code folders.
 2. Tests can be run from any IDE, or command line. VS Code is again preferred for easy interaction
 3. For VS Code, open the test file, click on 'Run, and then click on 'Start Debugging'.
 4. For command line, run command "flutter test test/test_file_name.dart" inside the project folder
