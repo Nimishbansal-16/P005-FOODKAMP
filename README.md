@@ -21,6 +21,11 @@ business.
 
 ### Signup & Login
 
+By tapping on 'Explore', user can enter the app. First user will be directed to the
+'Login' page. And then from there, user can select 'Sign Up' option, to go to 'Sign Up'
+page and get registered. User can register by filling all the required details. After all fields are filled, user can tap on 'Sign Up' button. Then, a verification link will sent to user's e-mail ID. When
+user will click on that link, user registration will be completed. After the user is registered, user can login using their e-mail ID and password.
+
 <div>
 <img src="images/openingPage-min.jpg" alt="opening image" width="200px" />
 <img src="images/userSignUp-min.jpg" alt="sign up image" width="200px" />
