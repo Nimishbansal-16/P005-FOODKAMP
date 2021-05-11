@@ -143,7 +143,7 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
                   child: Container(
                     padding: EdgeInsets.only(top: 60),
                     child: Text(
-                      'Cassia',
+                      'foodKamp',
                       style: TextStyle(
                         fontSize: 60,
                         fontWeight: FontWeight.bold,

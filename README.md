@@ -24,12 +24,13 @@ business.
 By tapping on 'Explore', user can enter the app. First user will be directed to the
 'Login' page. And then from there, user can select 'Sign Up' option, to go to 'Sign Up'
 page and get registered. User can register by filling all the required details. After all fields are filled, user can tap on 'Sign Up' button. Then, a verification link will sent to user's e-mail ID. When
-user will click on that link, user registration will be completed. After the user is registered, user can login using their e-mail ID and password.
+user will click on that link, user registration will be completed. After the user is registered, user can login using their e-mail ID and password. Also, if the user forgets his/her password, they can use the 'Reset Here' option. User will have to enter their registered e-mail ID. Then a verification link would be sent to the registered e-mail ID. After clicking on the link, user will will be able to reset their password.
 
 <div>
 <img src="images/openingPage-min.jpg" alt="opening image" width="200px" />
 <img src="images/userSignUp-min.jpg" alt="sign up image" width="200px" />
 <img src="images/signInPage-min.jpg" alt="sign in image" width="200px" />
+<img src="images/resetPassword.png" alt="reset password image" width="200px" />
 </div>
 
 ### User Home Page & Profile Section
@@ -79,12 +80,13 @@ Also, if scanning doesn't work for any reason, the user can manually tap on the 
 
 ### Login & Signup
 
-By tapping on 'Explore', restaurant user can enter the app. First user will be directed to the 'Login' page. And then from there, user can select 'Sign Up' option, to go to'Sign Up' page and get registered. Restaurant user can register by filling all the required details. After all fields are filled, user can tap on 'Sign Up' button. Then, a verification link will sent to the given e-mail ID. When restaurant user will click on that link, restaurant registration will be completed. After the user is registered, user can login using their e-mail ID and password.
+By tapping on 'Explore', restaurant user can enter the app. First user will be directed to the 'Login' page. And then from there, user can select 'Sign Up' option, to go to'Sign Up' page and get registered. Restaurant user can register by filling all the required details. After all fields are filled, user can tap on 'Sign Up' button. Then, a verification link will sent to the given e-mail ID. When restaurant user will click on that link, restaurant registration will be completed. After the user is registered, user can login using their e-mail ID and password. Also, if the user forgets his/her password, they can use the 'Reset Here' option. User will have to enter their registered e-mail ID. Then a verification link would be sent to the registered e-mail ID. After clicking on the link, user will will be able to reset their password.
 
 <div>
 <img src="images/openingPage-min.jpg" alt="opening image" width="200px" />
 <img src="images/resSignUp-min.jpg" alt="sign up image" width="200px" />
 <img src="images/signInPage-min.jpg" alt="sign in image" width="200px" />
+<img src="images/resetPassword.png" alt="reset password image" width="200px" />
 </div>
 
 ### Restaurant Home Page & Menu Bar
@@ -136,7 +138,7 @@ Once, the order is prepared, and the customer has arrived for the order pick-up,
 2. Open the folder in any IDE, VS Code is preferred.
 3. Open the 'foodKamp - restaurant side' folder for user side app code.
 4. Open the 'foodKamp - user side' folder for restaurant side app code.
-5. Install all the dependencies using pub get.
+5. Install all the dependencies using "flutter pub get" command.
 6. Connect an android device with debugging turned on or an emulator.
 7. Build and Run the application.
 8. Once it is successfully built and installed, enjoy using it!
