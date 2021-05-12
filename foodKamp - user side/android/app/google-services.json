@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "43806220706",
+    "project_id": "gian-e5a71",
+    "storage_bucket": "gian-e5a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43806220706:android:20c0cb46cacbbd0082d2fb",
+        "android_client_info": {
+          "package_name": "com.example.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zrD11mTCh_Ly2jzEIEvw5k71xLd0Ev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43806220706:android:f3181e64870f4c7482d2fb",
+        "android_client_info": {
+          "package_name": "com.food.ordering.zinger.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43806220706-3ttv002kt4dnkr5ttttpd6mbn45l71ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.ordering.zinger.seller",
+            "certificate_hash": "adfd1c9b79c9e62131f8ef8654b60ba1f6a80ae6"
+          }
+        },
+        {
+          "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zrD11mTCh_Ly2jzEIEvw5k71xLd0Ev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
