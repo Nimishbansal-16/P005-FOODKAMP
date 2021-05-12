@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "43806220706",
+    "project_id": "gian-e5a71",
+    "storage_bucket": "gian-e5a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43806220706:android:20c0cb46cacbbd0082d2fb",
+        "android_client_info": {
+          "package_name": "com.example.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zrD11mTCh_Ly2jzEIEvw5k71xLd0Ev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43806220706:android:962f473df9e6de2882d2fb",
+        "android_client_info": {
+          "package_name": "com.foodkamp.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zrD11mTCh_Ly2jzEIEvw5k71xLd0Ev8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43806220706-6pc5utvcvtadadsvotamn64g2qlnf7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
